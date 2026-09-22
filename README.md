@@ -32,6 +32,6 @@ Abre `index.html` en el navegador. No hay build ni instalación.
 
 | Archivo      | Contenido                                        |
 | ------------ | ------------------------------------------------ |
-| `index.html` | Página y rótulo de la escena                     |
+| `index.html` | Página, la nota y los mandos de la escena        |
 | `styles.css` | Estilos de la interfaz sobre el lienzo           |
 | `bouquet.js` | Toda la animación: composición, dibujo y física  |
